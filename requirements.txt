@@ -1,0 +1,7 @@
+jupyter
+numpy
+pillow
+tensorflow
+matplotlib
+opencv-python
+imutils
